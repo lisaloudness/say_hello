@@ -32,7 +32,9 @@ SECRET_KEY = 'django-insecure-8qy=^asw==iuv03q%bmd-)zdc7upksnw$2(cp^0j$9&lq1fc!*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-lisaloudness-sayhello-b85024njb56.ws-eu111.gitpod.io']
+ALLOWED_HOSTS = [
+    '8000-lisaloudness-sayhello-b85024njb56.ws-eu111.gitpod.io',
+    'lisaj-django-todo-app-24d5f8c7bbcd.herokuapp.com']
 
 
 # Application definition
